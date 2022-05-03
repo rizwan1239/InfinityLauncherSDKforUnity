@@ -1,0 +1,4 @@
+
+*.pdb
+Release/net48/UnityEngine.xml
+Release/net48/UnityEngine.dll
